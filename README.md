@@ -23,3 +23,8 @@ This project demonstrates Anti-Money Laundering (AML) analysis using Excel and M
 
 ## Skills Demonstrated
 AML Monitoring, SQL, Excel, Data Analysis, Risk Detection, Reporting
+## AML Case Investigation Project
+- Built an Excel-based AML case investigation workbook
+- Reviewed alert flags, KYC status, and customer risk levels
+- Documented investigation notes and case decisions
+- Created dashboard showing alert distribution and country-wise suspicious amounts
