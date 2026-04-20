@@ -28,3 +28,11 @@ AML Monitoring, SQL, Excel, Data Analysis, Risk Detection, Reporting
 - Reviewed alert flags, KYC status, and customer risk levels
 - Documented investigation notes and case decisions
 - Created dashboard showing alert distribution and country-wise suspicious amounts
+- ## Project 3: AML Alert Optimization & False Positive Reduction
+
+- Analyzed AML monitoring alerts to measure true positive vs false positive rates.
+- Identified scenarios generating excess false positives for tuning opportunities.
+- Tracked monthly investigator review time trends to improve operational efficiency.
+- Built Excel dashboard with PivotTables, charts, and KPI metrics.
+- Recommended threshold optimization to improve alert precision and reduce unnecessary reviews.
+- Demonstrated AML skills in transaction monitoring, alert triage, analytics, and reporting.
